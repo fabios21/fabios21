@@ -9,6 +9,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-silva-developer/")
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=gmail&logoColor=red)](https://www.linkedin.com/in/fabio-silva-developer/")
 
+<a href="mailto:elcorreoquequieres@correo.com">Aquí el texto que quieras</a>
+
 
 <!--
 **fabios21/fabios21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
