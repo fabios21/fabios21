@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-silva-developer/")
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=gmail&logoColor=red)](https://www.linkedin.com/in/fabio-silva-developer/")
 
-<a href="mailto:elcorreoquequieres@correo.com">![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=gmail&logoColor=red)</a>
+<a href="mailto:elcorreoquequieres@correo.com">![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=red)</a>
 
 
 <!--
