@@ -6,8 +6,8 @@
     HTML | CSS | Javascript | React | Redux | Node.js | Express.js | Sequelize | PostgreSQL
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=lonkedin&logoColor=white)](https://www.linkedin.com/in/fabio-silva-developer/")
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fabio-silva-developer/")
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-silva-developer/")
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=gmail&logoColor=red)](https://www.linkedin.com/in/fabio-silva-developer/")
 
 
 <!--
