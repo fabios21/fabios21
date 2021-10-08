@@ -1,6 +1,6 @@
 # ¡Hola! Soy Fabio Silva 💻
-    Desarrollador Web Full Stack, con experiencia en Anotación de Datos 3D, interesado en el campo tecnológico, autodidacta, 
-    con deseo constante de aprender.
+    Desarrollador Web Full Stack, con experiencia en Anotación de Datos 3D, interesado en el campo tecnológico, 
+    autodidacta, con deseo constante de aprender.
     
     Tecnologías:
     HTML | CSS | Javascript | React | Redux | Node.js | Express.js | Sequelize | PostgreSQL
