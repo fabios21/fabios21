@@ -8,7 +8,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-silva-developer/")
 <a href="mailto:fabsillopez@gmail.com">![Email](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=red)</a>
-<a href="https://drive.google.com/file/d/1OEYPcLeFV5LfjolvtnRn6yMCwkDlaP6m/view?usp=sharing" target="_blank">![CV](https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://drive.google.com/file/d/1OEYPcLeFV5LfjolvtnRn6yMCwkDlaP6m/view?usp=sharing" target="_blank">![CV](https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)</a>
 
 
 <!--
