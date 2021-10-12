@@ -1,3 +1,7 @@
+<div width="1000" height="200" >
+    <img src="https://cdn.pixabay.com/photo/2018/03/10/09/45/businessman-3213659_960_720.jpg" />
+</div>
+    
 # ¡Hola! Soy Fabio Silva 💻
     Desarrollador Web Full Stack, con experiencia en Anotación de Datos 3D, interesado en el campo tecnológico, 
     autodidacta, con deseo constante de aprender.
