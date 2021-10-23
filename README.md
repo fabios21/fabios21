@@ -14,7 +14,10 @@
 <a href="mailto:fabsillopez@gmail.com">![Email](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=red)</a>
 <a href="https://drive.google.com/file/d/1cpELZZv_z-hdG5loVvsmGM2FHFXZF5Z0/view?usp=sharing" target="_blank">![CV](https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)</a>
 
+
 # Proyectos
+
+<img src="https://github.com/fabios21/PI-Videogames/blob/master/landing.png?raw=true" />
 <!--
 **fabios21/fabios21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
