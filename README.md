@@ -18,7 +18,7 @@
 
 # Proyectos
 
-## Videogames Catalogue
+## :joystick: Videogames Catalogue
 
 <img src="https://raw.githubusercontent.com/fabios21/PI-Videogames/master/landing.png">
 
