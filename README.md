@@ -17,7 +17,8 @@
 
 # Proyectos
 
-<img src="https://github.com/fabios21/PI-Videogames/blob/master/landing.png?raw=true" href="https://pi-videogames-mu.vercel.app/"/>
+<img src="https://github.com/fabios21/PI-Videogames/blob/master/landing.png?raw=true">
+<a href"https://pi-videogames-mu.vercel.app/">Ver Demo</a>
 <!--
 **fabios21/fabios21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
