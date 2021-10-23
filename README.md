@@ -18,7 +18,7 @@
 # Proyectos
 
 <img src="https://github.com/fabios21/PI-Videogames/blob/master/landing.png?raw=true">
-Ver [Demo](https://pi-videogames-mu.vercel.app)
+- [x] Ver [Demo](https://pi-videogames-mu.vercel.app)
 Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
 
 
