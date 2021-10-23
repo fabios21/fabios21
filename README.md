@@ -1,7 +1,8 @@
 <div width="1000" height="200" >
     <img src="https://cdn.pixabay.com/photo/2015/10/30/17/42/world-1014504__340.jpg" />
 </div>
-    
+
+
 # ¡Hola! Soy Fabio Silva 💻
     Desarrollador Web Full Stack, con experiencia en Anotación de Datos 3D, interesado en el campo tecnológico, 
     autodidacta, con deseo constante de aprender.
@@ -17,10 +18,14 @@
 
 # Proyectos
 
-<img src="https://github.com/fabios21/PI-Videogames/blob/master/landing.png?raw=true">
-- [x] Ver [Demo](https://pi-videogames-mu.vercel.app)
-Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
+## Videogames Catalogue
 
+<img src="https://raw.githubusercontent.com/fabios21/PI-Videogames/master/landing.png">
+
+### Ver [Demo](https://pi-videogames-mu.vercel.app) | Ver [Repositorio](https://github.com/fabios21/PI-Videogames)
+#### Tecnologías implementadas
+- [x] **Front:** HTML, CSS, Javascript, React, Redux
+- [X] **Back:** Node, Express, PostgreSQL
 
 <!--
 **fabios21/fabios21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
