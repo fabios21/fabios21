@@ -19,6 +19,9 @@
 
 <img src="https://github.com/fabios21/PI-Videogames/blob/master/landing.png?raw=true">
 Ver [Demo](https://pi-videogames-mu.vercel.app)
+Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
+
+
 <!--
 **fabios21/fabios21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
