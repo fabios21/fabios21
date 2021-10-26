@@ -27,6 +27,15 @@
 - [x] **Front:** HTML, CSS, Javascript, React, Redux
 - [X] **Back:** Node, Express, PostgreSQL
 
+
+
+## :desktop_computer: Portafolio
+
+<img src="https://subirimagenes.s3.eu-central-1.wasabisys.com/subirimagenes/kM2sk7ksnS.png">
+
+### Ver [Demo](#) | Ver [Repositorio](#)
+#### Tecnologías implementadas
+- [x] **Front:** HTML, CSS, Javascript, React
 <!--
 **fabios21/fabios21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
