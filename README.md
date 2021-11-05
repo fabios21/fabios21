@@ -8,7 +8,7 @@
     autodidacta, con deseo constante de aprender.
     
     Tecnologías:
-    HTML | CSS | Javascript | React | Redux | Node.js | Express.js | Sequelize | PostgreSQL
+    HTML | CSS | Javascript | React | Redux | Node.js | Express.js | Sequelize | PostgreSQL | Firebase | Cloudinary
 
 
 <a href="https://www.linkedin.com/in/fabio-silva-developer/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
