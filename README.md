@@ -28,6 +28,15 @@
 - [X] **Back:** Node, Express, PostgreSQL
 
 
+## :bar_chart: Scientia Ecommerce
+
+<img src="https://i.ibb.co/KxVCXvT/screenshot-front-scientia-pf-vercel-app-2021-11-05-12-29-58.png">
+
+### Ver [Demo](https://front-scientia-pf.vercel.app) | Ver [Repositorio](https://github.com/Scientia-PF-nuevo)
+#### Tecnologías implementadas
+- [x] **Front:** HTML, CSS, Javascript, React, Redux, Firebase
+- [X] **Back:** Node, Express, PostgreSQL, Cloudinary
+
 
 ## :desktop_computer: Portafolio
 
