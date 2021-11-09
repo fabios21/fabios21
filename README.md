@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/fabio-silva-developer/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:fabsillopez@gmail.com">![Email](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=red)</a>
 <a href="https://drive.google.com/file/d/1QsXWmxqIJOSzzkVxhzaXFK8j6jSxH_vZ/view?usp=sharing" target="_blank">![CV](https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)</a>
-<a href="https://portafolio-rust-one.vercel.app/" target="_blank">![Portafolio](https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)</a>
+<a href="https://portafolio-rust-one.vercel.app/" target="_blank">![Portafolio](https://img.shields.io/badge/Portafolio-0077B5?style=for-the-badge&logo=Portafolio&logoColor=white)</a>
 
 
 # Proyectos
