@@ -46,6 +46,17 @@
 ### Ver [Demo](https://portafolio-rust-one.vercel.app) | Ver [Repositorio](https://github.com/fabios21/Portafolio)
 #### Tecnologías implementadas
 - [x] **Front:** HTML, CSS, Javascript, React
+
+
+# Maquetados
+
+## :people_hugging: Social Feed
+
+<img src="https://i.ibb.co/1dfkx4q/Portada-Social.png">
+
+### Ver [Demo](https://social-feed-react-app.vercel.app/) | Ver [Repositorio](https://github.com/fabios21/Social-Feed-React-App)
+#### Tecnologías implementadas
+- [x] HTML, CSS, Styled Component, Javascript, React
 <!--
 **fabios21/fabios21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
